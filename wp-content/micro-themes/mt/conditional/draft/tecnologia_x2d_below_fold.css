@@ -1,0 +1,20 @@
+.wp-block {} /*  (.wp-block {} ensures MT files load in Gutenberg editor) */
+
+/*= Tecnologia - below fold === */
+
+/** Tecnologia - below fold >> Uagb block 81d684cd **/
+#post-43 .uagb-block-81d684cd {
+	height: 2000px !important;
+	padding-top: 0 !important;
+}
+
+/** Tecnologia - below fold >> Uag image 191 **/
+.uagb-block-ocif9jbw .uag-image-191 {
+	width: 600px !important;
+}
+
+/** Tecnologia - below fold >> Uagb container inner blocks wrap **/
+.uagb-block-81d684cd .uagb-container-inner-blocks-wrap {
+	height: 1800px !important;
+}
+

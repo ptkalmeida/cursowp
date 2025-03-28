@@ -1,0 +1,18 @@
+.wp-block {} /*  (.wp-block {} ensures MT files load in Gutenberg editor) */
+/*  MICROTHEMER STYLES  */
+
+
+/*= Rodapé =================== */
+
+/** Rodapé >> Site below footer wrap **/
+#colophon .site-below-footer-wrap {
+	padding-top: 0 !important;
+	padding-bottom: 0 !important;
+}
+
+/** Rodapé >> Alignnone **/
+#colophon .alignnone {
+	width: 125px !important;
+	position: static !important;
+}
+

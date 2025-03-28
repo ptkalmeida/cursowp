@@ -1,0 +1,9 @@
+.wp-block {} /*  (.wp-block {} ensures MT files load in Gutenberg editor) */
+
+/*= Home - below fold ========= */
+
+/** Home - below fold >> Ast builder grid row container inner **/
+#colophon .ast-builder-grid-row-container-inner {
+	height: 100px !important;
+}
+

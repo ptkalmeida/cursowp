@@ -1,0 +1,9 @@
+.wp-block {} /*  (.wp-block {} ensures MT files load in Gutenberg editor) */
+
+/*= Home ====================== */
+
+/** Home >> Paragraph **/
+.ast-no-thumbnail p {
+	color: rgb(255, 255, 255) !important;
+}
+
